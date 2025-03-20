@@ -3,7 +3,7 @@ import 'firebase/compat/auth';
 import 'firebase/compat/firestore';
 
 var config = {
-    apiKey: "AIzaSyB-ntZXQIpTwyhkZrmJtXrCvZIibuSx8rQ",
+    apiKey: "",
     authDomain: "fraction-analytics-5bdcc.firebaseapp.com",
     databaseURL: "https://fraction-analytics-5bdcc-default-rtdb.firebaseio.com",
     projectId: "fraction-analytics-5bdcc",
